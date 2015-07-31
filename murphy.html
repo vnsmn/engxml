@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>murphy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<script type="text/javascript" src="lib/js/jquery-2.1.4.js"></script>
+<script type="text/javascript" src="lib/js/jquery-ui.js"></script>
+<script type="text/javascript" src="lib/js/murphy.js"></script>
+<script type="text/javascript" src="elementary.js"></script>
+<script type="text/javascript" src="intermedia.js"></script>
+<link href="css/jquery-ui.css" rel="stylesheet" type="text/css" />
+<link href="css/jquery-ui.structure.css" rel="stylesheet" type="text/css" />
+<link href="css/jquery-ui.theme.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+	//<![CDATA[	           
+	$(document).ready(function() {
+		var MURPHY = new Murphy(elementaryJson, intermediaJson);
+		MURPHY.createControl("accordionID");
+		//MURPHY.fillAccordion("#accordionID");
+		//$( "#accordionID" ).accordion();
+		//$( "#secID2" ).accordionClick();		
+	})
+	//]]>
+</script>
+<style type="text/css">
+input, select, button {
+    margin: 0em;
+    font: normal normal normal normal 10px/normal Arial;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    text-align: start;
+}
+select:not {
+    overflow: visible;
+}
+select, button, input {
+    box-sizing: border-box;
+    align-items: center;
+    border: 1px solid;
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+    cursor: default;
+}
+table.embedded {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: blue;
+    background-color: #99EBED;
+}
+table.main {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: blue;
+    background-color: #99EBED;
+    align: center;
+    width:100%;
+    bgcolor", #ffcc00;
+}
+</style>
+</head>
+<body>
+	<table id="tableID" bgcolor="#ffcc00" bordercolor="#0000ff"
+		cellspacing="0" border="1" cellpadding="1">
+		<tbody></tbody>
+	</table>
+	<div id="accordionID"/>
+</body>
+
+</html>
+

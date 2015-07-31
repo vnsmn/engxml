@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<books>
+	<book id="murphy_smalzer">
+		<unit id="1">
+			<section id="B">
+				<block>
+					<eng>I'm cold. Can you close the window, please?</eng>
+					<snd>sound/murphy_smalzer/basic/u1/i_m_cold_can_you_close_the_window_please.mp3
+					</snd>
+				</block>
+				<block>
+					<eng>I’m 32 years old. My sister is 29.</eng>
+					<snd>sound/murphy_smalzer/basic/u1/i_m_32_years_old_my_sister_is_29.mp3
+					</snd>
+				</block>
+				<block>
+					<eng>My brother is very tall. He’s a policeman.</eng>
+					<snd>sound/murphy_smalzer/basic/u1/my_brother_is_very_tall_he_s_a_policeman.mp3
+					</snd>
+				</block>
+				<block>
+					<eng>John is afraid of dogs.</eng>
+					<snd>sound/murphy_smalzer/basic/u1/john_is_afraid_of_dogs.mp3
+					</snd>
+				</block>
+				<block>
+					<eng>It’s ten o’clock. You’re late again.</eng>
+					<snd>sound/murphy_smalzer/basic/u1/it_s_ten_o_clock_you_re_late_again.mp3
+					</snd>
+				</block>
+				<block>
+					<eng>Mei Lan and I are good friends.</eng>
+					<snd>sound/murphy_smalzer/basic/u1/mei_lan_and_i_are_good_friends.mp3
+					</snd>
+				</block>
+				<block>
+					<eng>Your keys are on the table.</eng>
+					<snd>sound/murphy_smalzer/basic/u1/your_keys_are_on_the_table.mp3
+					</snd>
+				</block>
+				<block>
+					<eng>I’m tired, but I’m not hungry.</eng>
+					<snd>sound/murphy_smalzer/basic/u1/i_m_tired_but_i_m_not_hungry.mp3
+					</snd>
+				</block>
+				<block>
+					<eng>Tom isn’t interested in politics. He’s interested in music.
+					</eng>
+					<snd>sound/murphy_smalzer/basic/u1/tom_isn_t_interested_in_politics_he_s_interested_in_music.mp3
+					</snd>
+				</block>
+				<block>
+					<eng>Jessica isn’t at home right now. She’s at work.</eng>
+					<snd>sound/murphy_smalzer/basic/u1/jessica_isn_t_at_home_right_now_she_s_at_work.mp3
+					</snd>
+				</block>
+				<block>
+					<eng>Those people aren’t Canadian. They’re Australian.</eng>
+					<snd>sound/murphy_smalzer/basic/u1/those_people_aren_t_canadian_they_are_australian.mp3
+					</snd>
+				</block>
+				<block>
+					<eng>It’s sunny today, but it isn’t warm.</eng>
+					<snd>sound/murphy_smalzer/basic/u1/it_s_sunny_today_but_it_isn_t_warm.mp3
+					</snd>
+				</block>
+			</section>
+			<section id="C">
+				<block>
+					<eng>Thank you. That’s very kind of you.</eng>
+					<snd>sound/murphy_smalzer/basic/u1/thank_you_that_s_very_kind_of_you.mp3
+					</snd>
+				</block>
+				<block>
+					<eng>Look! There’s Chris.</eng>
+					<snd>sound/murphy_smalzer/basic/u1/look_there_s_chris.mp3
+					</snd>
+				</block>
+				<block>
+					<eng>“Here’s your key.” “Thank you.”</eng>
+					<snd>sound/murphy_smalzer/basic/u1/here_s_your_key_thank_you.mp3
+					</snd>
+				</block>
+			</section>
+		</unit>
+	</book>
+</books>

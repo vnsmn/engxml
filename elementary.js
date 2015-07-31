@@ -154,12 +154,6 @@ var elementaryJson = {
 				others : [ ]
 			},
 			{
-				phrase : "am_i_late_no_you_are_on_time",
-				source : "am_i_late_no_you_are_on_time.mp3",
-				words : [ "am", "i", "late", "you", "are", "on", "time" ],
-				others : [ ]
-			},
-			{
 				phrase : "are_these_your_keys_yes_they_are",
 				source : "are_these_your_keys_yes_they_are.mp3",
 				words : [ "are", "these", "your", "they" ],
